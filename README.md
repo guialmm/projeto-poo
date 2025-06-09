@@ -1,4 +1,4 @@
-# Projeto Poo 2025/1
+# Projeto Poo 2025/1 (C06 - A)
 Guilherme da Silva Fernandes Almeida GES - 704
 
 Jordan Araújo Melo Lima GEC - 2023
